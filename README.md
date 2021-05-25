@@ -3,7 +3,7 @@
 </p>
 
 
-# Projeto Módulo 01 - Ocorrências de Tráfego e o Impacto na Saúde Pública
+# Projeto: Ocorrências de Tráfego e o Impacto na Saúde Pública
 ---
 Este repositório apresenta a o projeto desenvolvido para o Módulo 01 do Segundo Bootcamp de Ciência de Dados da Alura. Serão feitas análises em cima dos dados obtidos na fonte de dados abertos do DATASUS pelo serviço TABNET. Será realizada uma análise exploratória dos dados obtidos com uma explanação. Posteriormente, serão elaboradas hipóteses a serem confirmadas ou refutadas com a utilização de visualização de dados e conceitos de estatística.
 
