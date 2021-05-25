@@ -1,2 +1,31 @@
-# bootcamp_modulo_01
-Projeto referente ao módulo 01 do Bootcamp de Ciência de Dados da Alura
+<p align="center">
+  <img src="https://15croum5v52u4nrv7goeotkw-wpengine.netdna-ssl.com/wp-content/uploads/2019/10/fourkites-datascience.jpg" width = 70%>
+</p>
+
+
+# Projeto Módulo 01 
+---
+Este repositório apresenta a o projeto desenvolvido para o Módulo 01 do Segundo Bootcamp de Ciência de Dados da Alura. Serão feitas análises em cima dos dados obtidos na fonte de dados abertos do DATASUS pelo serviço TABNET. Será realizada uma análise exploratória dos dados obtidos com uma explanação. Posteriormente, serão elaboradas hipóteses a serem confirmadas ou refutadas com a utilização de visualização de dados e conceitos de estatística.
+
+# Dos Dados
+---
+Os dados trabalhados neste projeto são oriundos da fonte de dados abertos <a href="http://www2.datasus.gov.br/DATASUS/index.php?area=0202&id=11633&VObj=http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sih/cnv/qi">DATASUS</a>, com a utilização do serviço TABNET. Foram selecionados os dados consolidados de todas as unidades da federação de Autorizações de Internações Hospitalares (AIH) separados por local de internação a partir do ano de 2008.
+
+Como linha e coluna do dataset a ser gerado pelo TABNET, foram selecionadas "Unidade da Federação" e "Ano/mês processamento". O objetivo dessa seleção era prover uma série temporal de dados que possibilitasse separar as diversas regiões do país, com o intuito de se avaliar a influência destas nos dados analisados. Foi selecionado como conteúdo o "Valor total" filtrado pelo caráter de atendimento "Outros tipos de acidente de trânsito".
+
+Um segundo dataset semelhante ao utilizado no módulo 01 foi utilizado com o intuito de se obter correlações com o novo dado obtido. Isto posto, como linha e colunas foram selecionadas "Unidade da Federação" e "Ano/mês processamento", respectivamente. Foi selecionado "Valor total" para o conteúdo sem qualquer outro tipo de filtro.
+
+# Do Objetivo
+---
+Durante os estudos do módulo 01 especificado, surgiu a suspeita de que o movimento pendular de tráfego causado pelos períodos de festas e férias escolares aumentaria o gasto com saúde das unidades da federação. Fato este, causado em decorrência do aumento de ocorrências de tráfego nas estradas, além da imprudência e abuso de alcool por parte dos condutores no período. 
+
+Este projeto tem o objetivo de visualizar a influência de gastos oriundos do tráfego de veículos em relação ao total gasto com saúde pública pela federação. Desta forma, seria evidênciado que não são apenas doenças e crises sanitárias que influenciam a evolução dos dados, sendo o tráfego um grande fator de gastos para a federação e tendo as campanhas de conscientização dos condutores como principal ferramenta para preservação da vida.
+
+# Da Metodologia Utilizada
+---
+
+# Resultados
+---
+
+# Conclusões
+---
