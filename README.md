@@ -23,9 +23,14 @@ Este projeto tem o objetivo de visualizar a influência de gastos oriundos do tr
 
 # Da Metodologia Utilizada
 ---
+Precedendo as análises dos dados, foi necessária um pré-processamento das bases de dados, realizando cortes temporais e preenchimento de pequenos lapsos com interpolação linear. Foram criadas tabelas e gráficos de proporcionalidade e correlação com linhas de tendências para a avalização da influência de uma base na outra. 
 
 # Resultados
 ---
+* De 17 estados analisados, em 10 estados o gasto total com saúde pública aumenta com o gasto em acidentes.
+* De 17 estados analisados, em 7 estados essa proporção é a inversa do item anterior.
+* Os gastos com acidentes são muito menores que o gasto total com saúde pública.
 
 # Conclusões
 ---
+Os gastos em saúde pública oriundos de acidentes de tráfego não são significativos para os gastos totais com saúde pública. Uma segunda hipótese levantada durante a visualização dos gráficos de gastos com saúde pública devido a acidentes, é que os estados podem subnotificar estes gastos. No caso de um estado não classificar um gasto, automaticamente implica em adicioná-lo ao total e indicando ele como não sendo devido a um acidente de tráfego. Essa falta de classificação repetida por meses, pode impactar diretamente as análises.
